@@ -16,6 +16,8 @@ test-project/
 docs/*
 !docs/harness-result-first-redesign.md
 !docs/文风分析实现解析.md
+!docs/类似项目借鉴-本项目能力基线.md
+!docs/类似项目借鉴-能力对比表.md
 novel-to-comic-research.docx
 .pnpm-store/
 tmp/
